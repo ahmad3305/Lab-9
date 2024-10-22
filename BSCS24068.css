@@ -1,0 +1,16 @@
+.first-div {
+    width: 570px;
+    height: 500px;
+    background-color: rgb(230, 173, 173);
+    border-width: 3px;
+    border-color: darkblue;
+    border-style: solid; 
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+}
