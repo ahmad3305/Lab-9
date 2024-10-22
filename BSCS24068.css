@@ -1,5 +1,5 @@
 .first-div {
-    width: 570px;
+    width: 550px;
     height: 500px;
     background-color: rgb(230, 173, 173);
     border-width: 3px;
@@ -13,4 +13,12 @@
     justify-content: center; 
     align-items: center;
     text-align: center;
+}
+
+.normal-para {
+    color: green; 
+}
+
+#fav-para {
+    color: rgb(128, 0, 0); 
 }
